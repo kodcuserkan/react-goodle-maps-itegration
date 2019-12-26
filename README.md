@@ -1,0 +1,1 @@
+Kendi api keyiniz google dev hesabınızı oluşturduktan sonra api-call a "?key=" yazıp sonuna ekleyerek web siteniz/appinizde kullanabilirsiniz.
